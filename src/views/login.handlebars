@@ -1,0 +1,19 @@
+<form action="/api/user/login" method="POST" class="loginForm">
+<h1 class="login-title">Login</h1>
+  <div class="form-group">
+    <label for="email" class="form-label">Email:</label>
+    <input type="email" name="email" id="email" class="form-input">
+  </div>
+
+  <div class="form-group">
+    <label for="password" class="form-label">Password:</label>
+    <input type="password" name="password" id="password" class="form-input">
+  </div>
+  <button type="submit" class="register-link">Login</button>
+  <a href="/user/requestpasswordreset" class="register-link">Reset password</a>
+  <p>or</p>
+  <div class="login-options">
+    <a href="/user/register" class="register-link">Register</a>
+    <a href="/api/user/github" class="github-link">Login with GitHub</a>
+  </div>
+</form>

@@ -1,0 +1,12 @@
+<div class="categories">
+  
+  <a href="/products?query=Remeras">Remeras</a>
+    <a href="/products?query=Camperas">Camperas</a>
+    <a href="/products?query=Pantalones">Pantalones</a>
+    <a href="/products?query=Shorts">Shorts</a>
+    <a href="/products?query=Accesorios">Accesorios</a>
+</div>
+<div class="sort">
+  <a href="/products?{{#if query}}query={{query}}&{{/if}}{{#if limit}}limit={{limit}}&{{/if}}sort=price">Lower price</a>
+  <a href="/products?{{#if query}}query={{query}}&{{/if}}{{#if limit}}limit={{limit}}&{{/if}}sort=-price">Higher price</a>
+</div>

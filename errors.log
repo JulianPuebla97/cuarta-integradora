@@ -1,0 +1,53 @@
+warn: Warning message
+error: Error message
+fatal: Fatal message
+warn: Warning message
+error: Error message
+warn: Warning message
+error: Error message
+warn: Warning message
+error: Error message
+warn: Warning message
+error: Error message
+fatal: Fatal message
+warn: Warning message
+error: Error message
+fatal: Fatal message
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: Code: ABC123 already exists
+    - Choose another code.
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: Not found Product.
+    - Verify in your database that the product exists.
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
+error: undefined
